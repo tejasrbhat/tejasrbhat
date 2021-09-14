@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there 👋
+
+### Welcome to my github profile.
+
+#### I am an indivisual contributor currently working in E2open.
+
+#### I've been pursuing interest in communicating with computers efficiently since past 10 years.
+
+#### Recently I am interested in contributing to open source and started workin on the same.
 
 <!--
 **tejasrbhat/tejasrbhat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
