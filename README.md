@@ -1,17 +1,43 @@
-<h1 align="center">Hi 👋, I'm Tejas R Bhat</h1>
+<h1 align="center">Hello World! I'm Tejas R Bhat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tejasrbhat&label=Profile%20views&color=0e75b6&style=flat" alt="tejasrbhat" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejasrbhat" alt="tejasrbhat" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tejasrbhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejasrbhat" height="30" width="40" /></a>
-<a href="https://instagram.com/the_code_alchemist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the_code_alchemist" height="30" width="40" /></a>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-tejasrbhat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tejasrbhat/)](https://linkedin.com/in/tejasrbhat/) 
+[![Gmail Badge](https://img.shields.io/badge/-tejasrbhatm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejasrbhatm@gmail.com)](mailto:tejasrbhatm@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-the_code_alchemis-cd486b?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/the_code_alchemis/)](https://instagram.com/the_code_alchemis/)
+<br/>
 </p>
 
+
+#### A little more about me...  
+```javascript
+const Tejas = {
+  Description : [
+                  Passionate, 
+                  Optimistic, 
+                  TechEnthusiast
+                ],
+  Education :   [ 
+                  { UG : PES Institute of Technology, Year :2013-2017  }, 
+                  { College : Govt Pre University College, Year : 2011-13 } 
+                ],
+  Experience :  [
+                  'Software Engineer at E2open - Current', 
+                  'Software Engineer at Secrelyshare'
+                ]
+}
+```
+
 <h3 align="left">Languages and Tools:</h3>
+
+<h4>Frontend : </h4>
+<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+
 <h4>Backend & Scripts: </h4>
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 <a href="https://golang.org" target="_blank">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
@@ -20,13 +46,7 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
-<h4>Frontend : </h4>
-<a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
-<h4>Other Technologies : </h4>
+#### Other Technologies :
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 <a href="https://www.elastic.co" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
@@ -34,7 +54,14 @@
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-<p align="left"></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasrbhat&show_icons=true&locale=en&layout=compact" alt="tejasrbhat" /></p>
+<hr>
+<p align="center">
+    <a href="https://github.com/tejasrbhat/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Teja Bhat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasrbhat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
+<p align="center">
+  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs? username=tejasrbhat&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=060A0C" alt="tejasrbhat" />
+  <img  width="50%" height="200px" alt="Tejas Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejasrbhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+</p>
 
