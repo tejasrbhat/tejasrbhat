@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Tejas R Bhat</h1>
+<h1 align="center">Hello World! I'm Tejas Bhat</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
