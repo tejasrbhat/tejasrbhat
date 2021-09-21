@@ -61,7 +61,6 @@ const Tejas = {
     </a>
 </p>
 <p align="center">
-  <img width="50%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs? username=tejasrbhat&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=060A0C" alt="tejasrbhat" />
-  <img  width="50%" height="200px" alt="Tejas Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejasrbhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasrbhat&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=060A0C" alt="tejasrbhat" /> <img  width="40%" alt="Tejas Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejasrbhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
