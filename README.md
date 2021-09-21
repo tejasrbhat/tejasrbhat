@@ -54,13 +54,9 @@ const Tejas = {
 <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
 <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
 
-<hr>
-<p align="center">
-    <a href="https://github.com/tejasrbhat/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Teja Bhat's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tejasrbhat&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tejasrbhat&show_icons=true&locale=en&layout=compact&langs_count=8&count_private=true&theme=react&hide_border=true&bg_color=060A0C" alt="tejasrbhat" /> <img  width="40%" alt="Tejas Bhat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=tejasrbhat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-</p>
+## 🏆 Github Status
+
+<img  src="https://github-readme-stats.vercel.app/api?username=tejasrbhat&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=tejasrbhat&theme=dark" width="45%" >
 
