@@ -6,7 +6,7 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-tejasrbhat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tejasrbhat/)](https://linkedin.com/in/tejasrbhat/) 
 [![Gmail Badge](https://img.shields.io/badge/-tejasrbhatm@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tejasrbhatm@gmail.com)](mailto:tejasrbhatm@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-tejasrbhat_-cd486b?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/tejasrbhat_/)](https://instagram.com/tejasrbhat_/)
+[![Instagram Badge](https://img.shields.io/badge/-tejasrbhat%5F-cd486b?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/tejasrbhat_/)](https://instagram.com/tejasrbhat_/)
 <br/>
 </p>
 
