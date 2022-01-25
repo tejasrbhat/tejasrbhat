@@ -17,7 +17,7 @@ const Tejas = {
   Description : [
                   Passionate, 
                   Optimistic, 
-                  TechEnthusiast
+                  Tech-Enthusiast
                 ],
   Education :   [ 
                   { UG : PES Institute of Technology, Year :2013-2017  }, 
