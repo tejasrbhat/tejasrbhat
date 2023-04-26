@@ -24,7 +24,8 @@ const Tejas = {
                   { College : Govt Pre University College, Year : 2011-13 } 
                 ],
   Experience :  [
-                  'Software Engineer at E2open - Current', 
+                  'Senior Software Engineer at Credit Saison - Current',
+                  'Senior Software Engineer at E2open', 
                   'Software Engineer at Secrelyshare'
                 ]
 }
